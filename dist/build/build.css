@@ -206,8 +206,10 @@ pre[data-line] {
 }
 
 body {
-  background-color: #0f0;
+  background-color: #00f;
 }
 .plagiarize {
+  width: 200px;
+  height: 100px;
   background-image: url("../src/img/e-commerce.jpg");
 }
